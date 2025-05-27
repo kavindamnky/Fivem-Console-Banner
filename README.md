@@ -30,4 +30,4 @@ Need help or want to suggest improvements?
 ---
 
 <h6 align="center">©️ M"Builds Projects</h6>
-<p align="center">© 2024 M"Builds Studios. All Rights Reserved. Developed by V. Kavinda [MNKY]</p>
+<p align="center">© 2025 M"Builds Studios. All Rights Reserved. Developed by V. Kavinda [MNKY]</p>
